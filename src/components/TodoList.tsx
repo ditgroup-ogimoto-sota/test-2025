@@ -34,7 +34,7 @@ const TodoList: React.FC<TodoListProps> = ({
     return (
       <ListContainer>
         <EmptyMessage>
-          📋 TODOがありません。新しいタスクを追加してください！
+          📋 TODOがありません。
         </EmptyMessage>
       </ListContainer>
     )
